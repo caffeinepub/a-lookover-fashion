@@ -156,7 +156,7 @@ const SAMPLE_STORE: StoreInfo = {
   address: "42 Fashion District Lane, Mumbai, Maharashtra 400001",
   city: "Mumbai",
   businessHours: "Mon–Sat: 9:00 AM – 7:00 PM | Sun: 10:00 AM – 5:00 PM",
-  phone: "+91 98765 43210",
+  phone: "234678900",
   email: "hello@alookover.com",
 };
 
